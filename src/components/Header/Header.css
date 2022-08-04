@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.vanu{
+    /* border: 1px solid pink; */
+    /* width: 100%; */
+    padding: 1rem 1rem;
+    background-color: #111;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vanu > h1{
+    flex: 0 1 38vw;
+}

@@ -1,0 +1,13 @@
+.SearchSection{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: cornflowerblue;
+}
+
+.DisplayText{
+    color: white;
+    display: inline;
+    padding-left: 10rem;
+}

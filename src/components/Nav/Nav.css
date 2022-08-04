@@ -1,0 +1,21 @@
+.nav-list{
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 0;
+    
+}
+.nav-list > *{
+    padding: 0.5rem;
+    transition: .5s;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.nav-list > *:hover{
+    font-size: 1.25rem;
+}
+
+
+
